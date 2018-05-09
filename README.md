@@ -12,7 +12,7 @@ Table of Contents     |
 1.Project Overview    |
 2.Required Components |
 3.Objectives/Updates  |
-4.Dependencies        |
+4.Run it!             |
 
 >Rollercoaster, yeah! (oh oh oh oh!)
 
@@ -35,6 +35,6 @@ Table of Contents     |
 
 
 
-### 4.) Dependencies 
+### 4.) Running *Coaster Crunch*
   To run *Coaster Crunch*, select the .zip file appended with SUBMISSION. Open the coaster-crunch folder in your favorite IDE. Ensure you have Node.js installed and intialize npm with the command ```npm init``` , then install Chart.js with ```npm install chart.js --save```. Because our project utilizes angular, launch it through the command ```ng serve --open``` to run it on a local host. 
     
