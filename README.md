@@ -31,7 +31,7 @@ Table of Contents     |
     
 
 ### 3.) Objectives & Future Content
- The objective of *Coaster Crunch* is to provide coaster enthusiasts with a simple set of data that provides more information about their favorite thrill rides. Thanks to the data table, readers can quicklys sort through roller coasters from around the world. It is our hope that readers may use this as an inspiration to place new coasters on their "must-ride" list, or build them in coaster emulation games such as *Planet Coaster* and *Rollercoaster Tycoon*
+ The objective of *Coaster Crunch* is to provide coaster enthusiasts with a simple set of data that provides more information about their favorite thrill rides. Thanks to the data table, readers can quicklys sort through roller coasters from around the world. It is our hope that readers may use this as an inspiration to place new coasters on their "must-ride" list, or build them in coaster emulation games such as *Planet Coaster* and *Rollercoaster Tycoon*. In the future, we'd like to look into improving functionality by tweaking our responsive design to change how data is presented entirely based on device, as well as bringing more features to our table such as hover-over images and external linking.
 
 
 
